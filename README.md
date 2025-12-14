@@ -9,9 +9,8 @@ Dependencies:
 - Dataset (HuggingFace)
 - Scikit-learn
 - NumPy
-
-
-
+  
+  
 Running environment:
 
 1.) Download/clone repository and create and activate a virtual environment:  
