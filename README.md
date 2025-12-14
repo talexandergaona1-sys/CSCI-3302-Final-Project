@@ -30,7 +30,7 @@ pip install --upgrade pip
 pip install torch transformers datasets scikit-learn evaluate numpy
 
 
-3.) Run training script if needed (files include saved checkpoint for already trained model):
+3.) Run training script:
 python train.py
 
 
